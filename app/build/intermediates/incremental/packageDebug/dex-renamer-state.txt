@@ -1,0 +1,7 @@
+#Mon Sep 18 22:15:45 SGT 2017
+base.0=C\:\\Users\\Vivian-Offline\\Desktop\\barcode reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dcc7b2dff9639d7260dfe79765280aac373c0ab0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Vivian-Offline\\Desktop\\barcode reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c316a5856ec30e8cc173e38fba976e723a9bd075\\classes.dex
+base.1=C\:\\Users\\Vivian-Offline\\Desktop\\barcode reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c316a5856ec30e8cc173e38fba976e723a9bd075
+file.0=C\:\\Users\\Vivian-Offline\\Desktop\\barcode reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dcc7b2dff9639d7260dfe79765280aac373c0ab0\\classes.dex
