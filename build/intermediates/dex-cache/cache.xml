@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\4aa1bbfd3f94215a49aa82057e8b8e83437bbdc1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a34c556dad32a7f2253a956f08e2fd0307af2917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\d2fa10effc610848c6f62d24471a04c48838062f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49f5532a0d74b563b0038edfd2614699868886a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\da57c0608133ddca2ab68fbae9d1e0fba6f25d4d\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_86a8561b10b4fc609ad376f863bd17a63f4d9505\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\1c24ac227e5e8b97d96a1330e806d39f67f8d733\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f35f0fbe798f87b7e8615ec14717528fb0d16381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\e2165018feedc59ca455ee232214e06af064a264\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43ebfeed25faed06e78fbf52e75865b3a5520058\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\c61f076303223e0b5fb82229cd8fdd0266627dad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_547ee1f91be39bd2cb0a5b72d3a41922d8ce8d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\a0335f950e455226c475f277d47eac8d6fdc0922\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f079f8d34a356e64f8c638853d05a52c7a35c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c316a5856ec30e8cc173e38fba976e723a9bd075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\e2165018feedc59ca455ee232214e06af064a264\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_962fbd575080c69d4136f935d979343f36e92e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\da57c0608133ddca2ab68fbae9d1e0fba6f25d4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cea18a0f6a5faddba3411985a27a89fd3745faf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\de5cee9271809cac8f1d4639aa25c62c36b1593d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b79c06577646b279cad76b9ac28eecc17684ddf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\8b7f3455a77e032644efc92ddc4b96a3e7e85e3a\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1d5e1801dd46906893b2fd7a435fdf22f5910ca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e319b59002a30aae6f3244f6d7be06bd5e19b7c">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dcc7b2dff9639d7260dfe79765280aac373c0ab0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\8b7f3455a77e032644efc92ddc4b96a3e7e85e3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a406463f2bd4b78dab162f35d5e1918eeed644b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\47b4dd4073760671aec7d807c930b62ea008d47a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff4c086bc3709cb4d59937fbc188defb1d7d4665\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\4e8bc31804822ade211ccb189a42c1c4540d16d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bddaf1720c216819b510fae2a41376dbc5442340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\9629916cb7f89258db479003e88bf142edbfd1aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e992ad22c7f7afbbdfffbdeb8387d4b7b36010b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\1c24ac227e5e8b97d96a1330e806d39f67f8d733\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8594ebe91adb41c5d44a1645bb26fd5fcaf03fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\6a4578f508795f0043c1e2592c76743557f13acf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf5bbd95e4300646f86e68ed2705af11f7a8658f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\b605573ee8948290f110dce1690cc3580a7df3f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3163f5c56999da0b4810e42b61ad92d4a0731936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\de5cee9271809cac8f1d4639aa25c62c36b1593d\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d4d1d844ec0119b5206ff0d28f6bff4960f49bb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\.android\build-cache\e9ff06c972915859fc07c4da9654618bcab0e25b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0353322c3d9b2c6a48413bdc81e6bd023affb21d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivian-Offline\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Vivian-Offline\Desktop\barcode reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_f4a6e665b946659ca73aa13a8d21635d28b851ba\classes.dex" />
+    </item>
+
+</items>
